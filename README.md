@@ -33,10 +33,6 @@ Generate structured medical notes with Llama 3.
 Store patient data securely for easy retrieval and analysis.
 
 
-Demo:
-
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
 📜 License
 
 This project is licensed under the MIT License.
